@@ -8,7 +8,6 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
 import com.in28min.spring.basics.componentscan.ComponentDAO;
-import com.in28min.spring.basics.springin5steps.scope.PersonDAO;
 
 @SpringBootApplication
 @ComponentScan("com.in28min.spring.basics.componentscan")
